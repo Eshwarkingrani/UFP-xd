@@ -32,9 +32,9 @@ export default function AboutPage() {
         "Coordinating comprehensive care services for orphaned children and elderly residents in our facilities",
     },
     {
-      name: "Safi",
+      name: "Yogesh",
       role: "Women Empowerment & Vocational Training Leader",
-      image: "/placeholder.svg?height=200&width=200&text=Safi",
+      image: "/placeholder.svg?height=200&width=200&text=Yogesh",
       description: "Leading women empowerment initiatives and managing all vocational training programs for women",
     },
   ]
